@@ -20,23 +20,7 @@ Built for learning and cybersecurity research purposes, Web Guard helps develope
 📡 Requests
 🎨 HTML / CSS
 ⚡ JavaScript
-📂 Project Structure
-Web-Guard/
-│
-├── app.py
-├── database.py
-├── test_db.py
-├── vulnerable_app.py
-│
-├── scanner/
-│   ├── crawler.py
-│   ├── sqli_scanner.py
-│   └── xss_scanner.py
-│
-├── templates/
-├── static/
-│
-└── reports/
+
 ⚙️ Installation
 📥 Clone the Repository
 git clone https://github.com/divyanshbhardwajx1/WEB-GUARD.git
