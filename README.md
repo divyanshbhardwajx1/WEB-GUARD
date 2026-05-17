@@ -1,5 +1,7 @@
 🛡️ Web Guard — Web Vulnerability Scanner
+
 🚀 Overview
+
 
 Web Guard is a Python-based Web Application Vulnerability Scanner designed to identify common security vulnerabilities in web applications. The project focuses on automating basic penetration testing tasks such as detecting SQL Injection (SQLi) and Cross-Site Scripting (XSS) vulnerabilities through crawling and payload-based testing.
 
